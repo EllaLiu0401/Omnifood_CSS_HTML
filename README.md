@@ -34,3 +34,6 @@ Describe the process of signing up, choosing a plan, and starting the service. M
 ## Testimonials
 
 Highlight some customer testimonials that showcase the benefits and effectiveness of the Omnifood service.
+
+## Demo Link
+https://omnifood-ella.netlify.app/
